@@ -1,3 +1,6 @@
-# SpringWebflux를 공부하기 위한 레포
+# Repository for studying Spring Webflux
 
-- [x] Mono, flux의 성질 이해하기
+- [x] Understanding Mono, flux
+- [] Test for study + sync
+- [] Webclient 
+- [] RouterFunction
